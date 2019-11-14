@@ -1,0 +1,6 @@
+Ao passar, salvar o tempo que demorou (obstáculos etc)
+https://dev.to/mr_steelze/progressive-web-apps-caching-strategies-mf2
+https://levelup.gitconnected.com/build-a-pwa-using-only-vanilla-javascript-bdf1eee6f37a
+https://peteris.rocks/blog/dns-proxy-server-in-node-js-with-ui/
+https://stackoverflow.com/questions/41424478/how-to-make-node-js-server-accessible-by-public-ip-address
+https://alistapart.com/article/request-with-intent-caching-strategies-in-the-age-of-pwas/
